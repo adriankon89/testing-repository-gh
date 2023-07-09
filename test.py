@@ -10,3 +10,5 @@ class Rectangle():
 kwadrat = Rectangle(2,2)
 a = kwadrat.area()
 print(a)
+
+print(a)
