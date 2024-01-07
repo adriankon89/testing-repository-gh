@@ -3,6 +3,7 @@
 
 test
 druga zmiana
+trzecia zmiana
 
 
 Zmiana w first branch
